@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(90deg, #ffff, rgb(182, 177, 177));
+}
+
+.container{
+    width: 30%;
+    /* height: 30% */
+}
+
